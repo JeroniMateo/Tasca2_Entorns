@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Assignatures de 1r de DAW</h1>
+    <ul>
+        <li><a href="SI.html">Sistemes Informàtics</a></li>
+        <li><a href="Programacio.html">Programació</a></li>
+        <li><a href="Entorns_Desenvolupament.html">Entorns del Desenvolupament</a></li>
+        <li><a href="BBDD.html">Bases de dades</a></li>
+        <li><a href="Llenguatge_Marques.html">Llenguatges de Marques</a></li>
+        <li><a href="FOL.html">FOL</a></li>
+    </ul>
+</body>
+</html>
